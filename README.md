@@ -14,7 +14,10 @@
 
 🌱 Currently, I'm working on building my testing skills, and I'm always eager to learn more. I believe that software testing is a crucial part of the software development process and plays an important role in ensuring that software is of high quality and meets the needs of end-users.
 
-💡 I enjoy using various testing tools, and I'm always looking for ways to improve my skills and knowledge. My goal is to become a skilled software tester and contribute to developing high-quality software products.</p>
+💡 I enjoy using various testing tools, and I'm always looking for ways to improve my skills and knowledge. My goal is to become a skilled software tester and contribute to developing high-quality software products.
+
+🔎 I am currently seeking job or internship opportunities in the field of software testing, and I am eager to gain new skills and experience in professional setting.
+</p>
 
 <br>
 
@@ -25,6 +28,39 @@
 <br>
 
 <p align="center">📌 ISTQB Foundation Level</p>
+
+<br>
+
+<hr>
+
+<h2 align="center">📑 My Test Documentation (Experience):</h2>
+
+<br>
+
+<div align="center">
+
+[📁 OLX Mobile Application - Bug Reports](https://docs.google.com/spreadsheets/d/1R_yWdkP4XF8otJ9yEAID0kaVwPvEB2_pgyNP5vC7vtU/edit?usp=share_link)
+
+[🔗 SwipeTo - Bug Reports - Jira - Screenshots](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4-3)
+
+[📁 Scouts Panel - Test Cases Based on User Stories](https://docs.google.com/spreadsheets/d/1rBmQfs4Acsg6MUCn8uuYeGAkeGYqnxBsLcjCWMfGNps/edit?usp=share_link)
+
+[📁 Scouts Panel - Test Cases Based on 'Own Experience'](https://docs.google.com/spreadsheets/d/1jU3SUgaWm0FiRyUpTnnJ7LiWlG9B46tyOAGxn2N8nM0/edit?usp=share_link)
+
+[📁 Mobile Application - Pick Eat Up - Test Cases](https://docs.google.com/spreadsheets/d/1p0qtzf-GonfvHYDX-CW0mW0lt6H0xA5zIXGsgtavdUg/edit?usp=share_link)
+
+[📁 Demo Application - Test Cases](https://docs.google.com/spreadsheets/d/1VHhlu3gbLd4BNWPYvn8KbdnS_6yRuMvO/edit?usp=share_link&ouid=107569696266946991149&rtpof=true&sd=true)
+
+[📁 Scouts Panel - Bug Reports](https://docs.google.com/spreadsheets/d/1LczMRwB2G6M3G79CQN9x3UoWwBZQwXsAaeiIUMewWcY/edit?usp=share_link)
+
+[📁 Scouts Panel - Test Report](https://docs.google.com/document/d/1oXkOWjZgBjTzP-3KQuXjIUv_hPcjwA61mI8LdLvpZgA/edit?usp=share_link)
+
+[🔗 Exploratory Testing of the Scouts Panel Application](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4)
+
+[📁 Scouts Panel - Exploratory Testing - Intellectual Tour ](https://docs.google.com/spreadsheets/d/1FLA8Eiy_HHp-hLkXB-UcoXh6t79-7fyzNsfE0GA-H0w/edit?usp=share_link)
+
+[🔗 SQL Queries](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-3-4)
+</div>
 
 <br>
 
@@ -41,6 +77,8 @@
 |**Testing**|
 || Dare IT Challenge: QA Manual Testing | Dare IT  |
 || Practical course in software testing | Udemy |
+|**Agile & Scrum**|
+|| Agile and Scrum from Scratch | CodeSprinters |
 |**REST API**|
 || Postman from scratch - testing REST API | Udemy |
 | |Postman - testing REST API | Udemy |
@@ -91,39 +129,6 @@
 
 <hr>
 
-<h2 align="center">📑 My Test Documentation:</h2>
-
-<br>
-
-<div align="center">
-
-[📁 OLX Mobile Application - Bug Reports](https://docs.google.com/spreadsheets/d/1R_yWdkP4XF8otJ9yEAID0kaVwPvEB2_pgyNP5vC7vtU/edit?usp=share_link)
-
-[🔗 SwipeTo - Bug Reports - Jira - Screenshots](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4-3)
-
-[📁 Scouts Panel - Test Cases Based on User Stories](https://docs.google.com/spreadsheets/d/1rBmQfs4Acsg6MUCn8uuYeGAkeGYqnxBsLcjCWMfGNps/edit?usp=share_link)
-
-[📁 Scouts Panel - Test Cases Based on 'Own Experience'](https://docs.google.com/spreadsheets/d/1jU3SUgaWm0FiRyUpTnnJ7LiWlG9B46tyOAGxn2N8nM0/edit?usp=share_link)
-
-[📁 Mobile Application - Pick Eat Up - Test Cases](https://docs.google.com/spreadsheets/d/1p0qtzf-GonfvHYDX-CW0mW0lt6H0xA5zIXGsgtavdUg/edit?usp=share_link)
-
-[📁 Demo Application - Test Cases](https://docs.google.com/spreadsheets/d/1VHhlu3gbLd4BNWPYvn8KbdnS_6yRuMvO/edit?usp=share_link&ouid=107569696266946991149&rtpof=true&sd=true)
-
-[📁 Scouts Panel - Bug Reports](https://docs.google.com/spreadsheets/d/1LczMRwB2G6M3G79CQN9x3UoWwBZQwXsAaeiIUMewWcY/edit?usp=share_link)
-
-[📁 Scouts Panel - Test Report](https://docs.google.com/document/d/1oXkOWjZgBjTzP-3KQuXjIUv_hPcjwA61mI8LdLvpZgA/edit?usp=share_link)
-
-[🔗 Exploratory Testing of the Scouts Panel Application](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4)
-
-[📁 Scouts Panel - Exploratory Testing - Intellectual Tour ](https://docs.google.com/spreadsheets/d/1FLA8Eiy_HHp-hLkXB-UcoXh6t79-7fyzNsfE0GA-H0w/edit?usp=share_link)
-
-[🔗 SQL Queries](https://github.com/milgit-007/challenge_portfolio_milena#-task-5-)
-</div>
-
-<br>
-
-<hr>
-
 <h2 align="center">🖌️ My Projects:</h2>
 
 <br>
@@ -135,27 +140,6 @@
 [☀️ Weather-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Weather-app)
 
 [🌡️ Temperature-converter-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Temperature-converter-app)
-
-</div>
-<br>
-
-<hr>
-
-<h2 align="center">📽️ Workshops/Webinars:</h2>
-
-<br>
-
-<div align="center">
-
-| Event | Date | Organizer |
-|-------|------|-----------|
-| **Learn manual testing - Workshop** | 23.11.2022 | Czy IT Jest Dla Mnie |
-| **Software Testing Workshop** | 07.11.2022 | Maja Malinowska |
-| **How to become a Junior Software Tester?** | 21.11.2022 | Quality Island |
-| **SQL for Testers** | 12.10.2022 | Krystian Brożek - GeekON |
-| **Introduction to API Testing with Postman** | 1.08.2022 | Quality Island |
-| **Check if testing is for you. Free trial lesson** | 24.05.2022 | Future Collars |
-| **Essential Toolkit for Beginner Software Testers. Free Trial Lesson** | 18.02.2022 | Future Collars |
 
 </div>
 <br>
@@ -177,6 +161,28 @@
 ⚬ **_Tester oprogramowania_** - Karolina Zmitrowicz 
 
 ⚬ **_ABC Testowania Oprogramowania_** (e-book) - Waldemar Szafraniec, Dorota Gabor
+
+</div>
+
+<br>
+
+<hr>
+
+<h2 align="center">📽️ Workshops/Webinars:</h2>
+
+<br>
+
+<div align="center">
+
+| Event | Date | Organizer |
+|-------|------|-----------|
+| **Learn manual testing - Workshop** | 23.11.2022 | Czy IT Jest Dla Mnie |
+| **Software Testing Workshop** | 07.11.2022 | Maja Malinowska |
+| **How to become a Junior Software Tester?** | 21.11.2022 | Quality Island |
+| **SQL for Testers** | 12.10.2022 | Krystian Brożek - GeekON |
+| **Introduction to API Testing with Postman** | 1.08.2022 | Quality Island |
+| **Check if testing is for you. Free trial lesson** | 24.05.2022 | Future Collars |
+| **Essential Toolkit for Beginner Software Testers. Free Trial Lesson** | 18.02.2022 | Future Collars |
 
 </div>
 <br>
