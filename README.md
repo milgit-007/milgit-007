@@ -149,7 +149,7 @@
 
 | Event | Date | Organizer |
 |-------|------|-----------|
-| **Learn manual testing (workshop)** | 23.11.2022 | Czy IT Jest Dla Mnie |
+| **Learn manual testing - Workshop** | 23.11.2022 | Czy IT Jest Dla Mnie |
 | **Software Testing Workshop** | 07.11.2022 | Maja Malinowska |
 | **How to become a Junior Software Tester?** | 21.11.2022 | Quality Island |
 | **SQL for Testers** | 12.10.2022 | Krystian Brożek - GeekON |
