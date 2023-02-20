@@ -55,7 +55,7 @@
 || HTML Tutorial | W3Schools |
 || CSS Tutorial | W3Schools |
 |**Javascript**|
-|| JavaScript - The Only Course You Need! | Udemy |
+|| JavaScript - The Only Course You Need (in progress) | Udemy |
 
 </div>
 
