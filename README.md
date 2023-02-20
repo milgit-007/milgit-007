@@ -16,8 +16,9 @@
 
 💡 I enjoy using various testing tools, and I'm always looking for ways to improve my skills and knowledge. My goal is to become a skilled software tester and contribute to developing high-quality software products.</p>
 
-<hr>
 <br>
+
+<hr>
 
 <h2 align="center">📄 Certificates:</h2>
 
@@ -25,8 +26,9 @@
 
 <p align="center">📌 ISTQB Foundation Level</p>
 
-<hr>
 <br>
+
+<hr>
 
 <h2 align="center">🎓 Courses:</h2>
 
@@ -57,9 +59,9 @@
 
 </div>
 
-<hr>
-
 <br>
+
+<hr>
 
 <h2 align="center"> 🛠️ Tech Stack & Tools:</h2>
 <br>
@@ -85,9 +87,9 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
 </p>
 
-<hr>
-
 <br>
+
+<hr>
 
 <h2 align="center">📑 My Test Documentation:</h2>
 
@@ -95,7 +97,7 @@
 
 <div align="center">
 
-[📁 Exploratory Testing of the OLX Mobile Application and Bug Reports](https://docs.google.com/spreadsheets/d/1R_yWdkP4XF8otJ9yEAID0kaVwPvEB2_pgyNP5vC7vtU/edit?usp=share_link)
+[📁 OLX Mobile Application - Bug Reports](https://docs.google.com/spreadsheets/d/1R_yWdkP4XF8otJ9yEAID0kaVwPvEB2_pgyNP5vC7vtU/edit?usp=share_link)
 
 [🔗 SwipeTo - Bug Reports - Jira - Screenshots](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4-3)
 
@@ -116,12 +118,11 @@
 [📁 Scouts Panel - Exploratory Testing - Intellectual Tour ](https://docs.google.com/spreadsheets/d/1FLA8Eiy_HHp-hLkXB-UcoXh6t79-7fyzNsfE0GA-H0w/edit?usp=share_link)
 
 [🔗 SQL Queries](https://github.com/milgit-007/challenge_portfolio_milena#-task-5-)
-
-
 </div>
 
-<hr>
 <br>
+
+<hr>
 
 <h2 align="center">🖌️ My Projects:</h2>
 
@@ -136,9 +137,9 @@
 [🌡️ Temperature-converter-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Temperature-converter-app)
 
 </div>
+<br>
 
 <hr>
-<br>
 
 <h2 align="center">📽️ Workshops/Webinars:</h2>
 
@@ -156,12 +157,10 @@
 | **Check if testing is for you. Free trial lesson** | 24.05.2022 | Future Collars |
 | **Essential Toolkit for Beginner Software Testers. Free Trial Lesson** | 18.02.2022 | Future Collars |
 
-
-
 </div>
+<br>
 
 <hr>
-<br>
 
 <h2 align="center">📚 Books I Read:</h2>
 
@@ -173,16 +172,16 @@
 
 ⚬ **_Pasja testowania_** - Krzysztof Jadczyk
 
-⚬ **_Certyfikowany tester ISTQB. Poziom podstawowy_** - Roman Adam
+⚬ **_Certyfikowany tester ISTQB_** - Roman Adam, Lucjan Stapp
 
-⚬ **_Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania_** - Karolina Zmitrowicz 
+⚬ **_Tester oprogramowania_** - Karolina Zmitrowicz 
 
 ⚬ **_ABC Testowania Oprogramowania_** (e-book) - Waldemar Szafraniec, Dorota Gabor
 
 </div>
+<br>
 
 <hr>
-<br>
 
 <h2 align="center">📰 Blogs I Read:</h2>
 
@@ -208,9 +207,9 @@
 
 
 </div>
+<br>
 
 <hr>
-<br>
 
 <h2 align="center">📀 Podcasts I Listen:</h2>
 
