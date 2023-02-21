@@ -17,6 +17,8 @@
 💡 I enjoy using various testing tools, and I'm always looking for ways to improve my skills and knowledge. My goal is to become a skilled software tester and contribute to developing high-quality software products.
 
 🔎 I am currently seeking job or internship opportunities in the field of software testing, and I am eager to gain new skills and experience in professional setting.
+ 
+ 📧 Contact me: kurzatkowska.milena@gmail.com
 </p>
 
 <br>
