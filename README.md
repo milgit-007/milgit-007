@@ -3,7 +3,7 @@
  <br>
  
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=D995C9&center=true&width=435&lines=Nice+to+meet+you%2C+I'm+Milena!;I'm+an+aspiring+software+tester;and+enthusiastic+learner%2C;always+keen+to+improve+my+skills!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4000&pause=700&color=D995C9&center=true&width=435&lines=Nice+to+meet+you%2C+I'm+Milena!;I'm+an+aspiring+software+tester;and+enthusiastic+learner%2C;always+eager+to+improve+my+skills!" alt="Typing SVG" />
   </p>
   
   <hr>
@@ -16,7 +16,7 @@
 
 💡 I enjoy using various testing tools, and I'm always looking for ways to improve my skills and knowledge. My goal is to become a skilled software tester and contribute to developing high-quality software products.
 
-🔎 I am currently seeking job or internship opportunities in the field of software testing, and I am eager to gain new skills and experience in professional setting.
+🔎 I am currently seeking job or internship opportunities in the field of software testing, and I am eager to gain new skills and experience in a professional setting.
  
  📧 Contact me: kurzatkowska.milena@gmail.com
 </p>
@@ -64,6 +64,23 @@
 [🔗 SQL Queries](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-3-4)
 </div>
 
+<br>
+
+<hr>
+
+<h2 align="center">🖌️ My Projects:</h2>
+
+<br>
+
+<div align="center">
+
+[🚩 Trello API Postman Collection](https://github.com/milgit-007/Trello-API-Postman-Collection)
+
+[☀️ Weather-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Weather-app)
+
+[🌡️ Temperature-converter-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Temperature-converter-app)
+
+</div>
 <br>
 
 <hr>
@@ -127,23 +144,6 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">
 </p>
 
-<br>
-
-<hr>
-
-<h2 align="center">🖌️ My Projects:</h2>
-
-<br>
-
-<div align="center">
-
-[🚩 Trello API Postman Collection](https://github.com/milgit-007/Trello-API-Postman-Collection)
-
-[☀️ Weather-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Weather-app)
-
-[🌡️ Temperature-converter-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Temperature-converter-app)
-
-</div>
 <br>
 
 <hr>
