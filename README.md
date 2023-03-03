@@ -43,7 +43,7 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1R_yWdkP4XF8otJ9yEAID0kaVwPvEB2_pgyNP5vC7vtU/edit?usp=share_link" target="_blank">📁 OLX Mobile Application - Bug Reports</a>
 
-[🔗 SwipeTo - Bug Reports - Jira - Screenshots](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4-3)
+[🔗 SwipeTo - Bug Reports - Jira - Screenshots](https://github.com/milgit-007/challenge_portfolio_milena#%EF%B8%8Fsubtask-4-3))
 
 [📁 Scouts Panel - Test Cases Based on User Stories](https://docs.google.com/spreadsheets/d/1rBmQfs4Acsg6MUCn8uuYeGAkeGYqnxBsLcjCWMfGNps/edit?usp=share_link)
 
