@@ -29,7 +29,7 @@
 
 <br>
 
-<p align="center">📌 ISTQB Foundation Level</p>
+<p align="center">📌 ISTQB Certified Tester Foundation Level</p>
 
 <br>
 
@@ -74,9 +74,11 @@
 
 <div align="center">
 
-[🚩 Trello API Postman Collection](https://github.com/milgit-007/Trello-API-Postman-Collection)
+[🚩 Trello API - Postman Collection](https://github.com/milgit-007/Trello-API-Postman-Collection)
 
 [☀️ Weather-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Weather-app)
+
+[✔️ ToDo-List (HTML, CSS, JavaScript)](https://github.com/milgit-007/ToDo-List)
 
 [🌡️ Temperature-converter-app (HTML, CSS, JavaScript)](https://github.com/milgit-007/Temperature-converter-app)
 
