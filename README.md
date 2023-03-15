@@ -19,6 +19,8 @@
 🔎 I'm currently seeking job or internship opportunities in the field of software testing, and I'm eager to gain new skills and experience in a professional setting.
  
  📧 Contact me: kurzatkowska.milena@gmail.com
+ 
+ 💎 [Visit My LinkedIn Profile](https://www.linkedin.com/in/milena-kurzatkowska/)
 </p>
 
 <br>
@@ -160,7 +162,7 @@
 
 ⚬ **_Pasja testowania_** - Krzysztof Jadczyk
 
-⚬ **_Certyfikowany tester ISTQB_** - Roman Adam, Lucjan Stapp
+⚬ **_Certyfikowany tester ISTQB_** - Adam Roman, Lucjan Stapp
 
 ⚬ **_Tester oprogramowania_** - Karolina Zmitrowicz 
 
