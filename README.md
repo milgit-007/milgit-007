@@ -101,7 +101,7 @@
 || Dare IT Challenge: QA Manual Testing | Dare IT  |
 || Practical course in software testing | Udemy |
 |**Agile & Scrum**|
-|| Agile and Scrum from Scratch | CodeSprinters |
+|| Agile & Scrum basics | CodeSprinters |
 |**REST API**|
 || Postman from scratch - testing REST API | Udemy |
 | |Postman - testing REST API | Udemy |
@@ -116,7 +116,7 @@
 || HTML Tutorial | W3Schools |
 || CSS Tutorial | W3Schools |
 |**Javascript**|
-|| JavaScript - The Only Course You Need (in progress) | Udemy |
+|| JavaScript – The Complete Course (in progress) | Udemy |
 
 </div>
 
