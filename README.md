@@ -10,15 +10,13 @@
 
 <h2 align="center">😎 About me</h2>
 
-<p align="justify">💼 I've worked as a physiotherapist for several years, but I decided to make a career change and focus on software testing. As a former physiotherapist, I've always enjoyed solving complex problems. I believe that my analytical skills and attention to detail will serve me well in my new career path as a software tester.
+<p align="justify">💼 I'm a software tester passionate about ensuring high-quality software products. I enjoy problem-solving and improving software efficiency.
 
-🌱 Currently, I'm working on building my testing skills, and I'm always keen to learn more. I've been self-learning about testing methodologies, tools, and technologies, and I've also completed a few courses.
+🌱 Currently, I'm expanding my knowledge in front-end development, focusing on React, UX principles, and modern web technologies. 
 
-💡 I enjoy using various testing tools, and I'm always looking for ways to improve my skills and knowledge. My goal is to become a skilled software tester and contribute to developing high-quality software products.
-
-🔎 I'm currently seeking job or internship opportunities in the field of software testing, and I'm eager to gain new skills and experience in a professional setting.
+💡 I enjoy exploring new technologies and constantly looking for ways to improve my skills.
  
- 📧 Contact me: kurzatkowska.milena@gmail.com
+ 📧 Contact me: milena.szymanowska94@gmail.com
  
  💎 [Visit My LinkedIn Profile](https://www.linkedin.com/in/milena-kurzatkowska/)
 </p>
